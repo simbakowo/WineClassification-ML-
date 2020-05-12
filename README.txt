@@ -1,3 +1,5 @@
+Multiclass classification usng random forests
+
 This project compares the 2 ways of implementing Random Forrests on the
 White Wine Dataset using classification. (10 classes, quality). Could also
 be a regression problem.
